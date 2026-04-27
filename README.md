@@ -1,9 +1,10 @@
 # Hongyu Wang
 
-I build reproducible research workflows at the boundary of AI evaluation, institutional
-text analysis, and quantitative data work. My strongest current project is
-**LegalBenchPro**, an AI-assisted benchmark for evaluating large language models on
-public legal exams and de-identified Chinese civil-case reasoning tasks.
+I build reproducible research workflows at the boundary of AI evaluation,
+institutional text analysis, and quantitative social-science data work. My strongest
+current project is **LegalBenchPro**, an AI-assisted benchmark for evaluating large
+language models on public legal exams and de-identified Chinese civil-case reasoning
+tasks.
 
 ## Current Focus
 
@@ -13,6 +14,8 @@ public legal exams and de-identified Chinese civil-case reasoning tasks.
   figures/tables.
 - Evaluation design: how benchmark performance transfers, fails, or changes across
   more realistic reasoning settings.
+- AI-native research practice: using language models for coding, data cleaning, and
+  research support while preserving provenance, validation, and version control.
 
 ## Selected Projects
 
@@ -27,7 +30,8 @@ public legal exams and de-identified Chinese civil-case reasoning tasks.
 
 ## What I Want Reviewers To Notice
 
-I care about turning messy research inputs into documented, rerunnable artifacts: scripts,
-metadata, data cards, tests, model assumptions, and honest release constraints. My GitHub
-is organized to show both substantive interest in AI/legal/social data and the practical
-engineering needed to make research reproducible.
+I care about turning messy research inputs into documented, rerunnable artifacts:
+scripts, metadata, data cards, tests, model assumptions, and honest release constraints.
+My GitHub is organized to show both substantive interest in AI, institutional data, and
+computational social science, plus the practical engineering needed to make research
+reproducible.
