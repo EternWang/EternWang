@@ -1,10 +1,9 @@
 # Hongyu Wang
 
 I build reproducible research workflows at the boundary of AI evaluation,
-institutional text analysis, and quantitative social-science data work. My strongest
-current project is **LegalBenchPro**, an AI-assisted benchmark for evaluating large
-language models on public legal exams and de-identified Chinese civil-case reasoning
-tasks.
+institutional text analysis, and quantitative data work. My current main project is
+**LegalBenchPro**, a benchmark-in-progress for evaluating large language models on
+public legal exams and de-identified Chinese civil-case reasoning tasks.
 
 ## Current Focus
 
@@ -14,7 +13,7 @@ tasks.
   figures/tables.
 - Evaluation design: how benchmark performance transfers, fails, or changes across
   more realistic reasoning settings.
-- AI-native research practice: using language models for coding, data cleaning, and
+- AI-assisted research practice: using language models for coding, data cleaning, and
   research support while preserving provenance, validation, and version control.
 
 ## Selected Research Portfolio
@@ -28,15 +27,10 @@ tasks.
 | [fourier-optics-lab](https://github.com/EternWang/fourier-optics-lab) | Constrained regression, method comparison, structured outputs, and analytic uncertainty propagation. |
 | [hd-isotope-shift](https://github.com/EternWang/hd-isotope-shift) | Repeated-measurement spectroscopy with calibration-aware uncertainty propagation and explicit raw-fit windows. |
 
-This order is intentional: the first project shows my closest substantive fit with
-AI-assisted institutional text research, and the remaining projects show the
-reproducible data-engineering and quantitative-analysis habits I would bring to a
-research team.
-
 ## Research Practices
 
 Across projects, I try to turn messy research inputs into documented, rerunnable
 artifacts: scripts, metadata, data cards, tests, model assumptions, and honest release
-constraints. My GitHub is organized to show both substantive interest in AI,
-institutional data, and computational social science, plus the practical engineering
-needed to make research reproducible.
+constraints. My GitHub is organized around a simple habit: make the path from raw
+inputs to reported outputs visible enough that another reader can inspect, rerun, and
+question it.
