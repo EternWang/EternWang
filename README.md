@@ -21,12 +21,12 @@ tasks.
 
 | Project | What It Shows |
 | --- | --- |
-| [LegalBenchPro](https://github.com/EternWang/legalbenchpro) | LLM legal-reasoning benchmark with Chinese civil cases, public-exam tasks, scoring protocols, data card, and reproducible sample extraction. |
+| [LegalBenchPro](https://github.com/EternWang/LegalBenchPro) | LLM legal-reasoning benchmark with Chinese civil cases, public-exam tasks, scoring protocols, data card, and reproducible sample extraction. |
 | [pnmr-relaxation-analysis](https://github.com/EternWang/pnmr-relaxation-analysis) | Signal processing pipeline with echo detection, nonlinear fitting, uncertainty estimates, tests, and generated figures. |
 | [cavendish-torsion-balance](https://github.com/EternWang/cavendish-torsion-balance) | Computer-vision and time-series workflow from raw tracking data to calibrated measurements and systematics tables. |
-| [co60-attenuation-analysis](https://github.com/EternWang/co60-attenuation-analysis) | Regression and control-test analysis with documented modeling choices and reproducible plots. |
-| [FourierOpticsLab](https://github.com/EternWang/FourierOpticsLab) | Constrained regression, method comparison, structured outputs, and analytic uncertainty propagation. |
-| [HD_Isotope_Shift](https://github.com/EternWang/HD_Isotope_Shift) | Repeated-measurement spectroscopy with calibration-aware uncertainty propagation and explicit raw-fit windows. |
+| [co-60-attenuation-analysis](https://github.com/EternWang/co-60-attenuation-analysis) | Regression and control-test analysis with documented modeling choices and reproducible plots. |
+| [fourier-optics-lab](https://github.com/EternWang/fourier-optics-lab) | Constrained regression, method comparison, structured outputs, and analytic uncertainty propagation. |
+| [hd-isotope-shift](https://github.com/EternWang/hd-isotope-shift) | Repeated-measurement spectroscopy with calibration-aware uncertainty propagation and explicit raw-fit windows. |
 
 This order is intentional: the first project shows my closest substantive fit with
 AI-assisted institutional text research, and the remaining projects show the
