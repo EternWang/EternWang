@@ -17,7 +17,7 @@ tasks.
 - AI-native research practice: using language models for coding, data cleaning, and
   research support while preserving provenance, validation, and version control.
 
-## Selected Projects
+## Selected Research Portfolio
 
 | Project | What It Shows |
 | --- | --- |
@@ -27,6 +27,11 @@ tasks.
 | [co60-attenuation-analysis](https://github.com/EternWang/co60-attenuation-analysis) | Regression and control-test analysis with documented modeling choices and reproducible plots. |
 | [HD_Isotope_Shift](https://github.com/EternWang/HD_Isotope_Shift) | Repeated-measurement spectroscopy with calibration-aware uncertainty propagation and explicit raw-fit windows. |
 | [FourierOpticsLab](https://github.com/EternWang/FourierOpticsLab) | Constrained regression, method comparison, structured outputs, and analytic uncertainty propagation. |
+
+This order is intentional: the first project shows my closest substantive fit with
+AI-assisted institutional text research, and the remaining projects show the
+reproducible data-engineering and quantitative-analysis habits I would bring to a
+research team.
 
 ## What I Want Reviewers To Notice
 
