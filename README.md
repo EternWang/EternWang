@@ -27,6 +27,18 @@ public legal exams and de-identified Chinese civil-case reasoning tasks.
 | [fourier-optics-lab](https://github.com/EternWang/fourier-optics-lab) | Constrained regression, method comparison, structured outputs, and analytic uncertainty propagation. |
 | [hd-isotope-shift](https://github.com/EternWang/hd-isotope-shift) | Repeated-measurement spectroscopy with calibration-aware uncertainty propagation and explicit raw-fit windows. |
 
+## Additional Public Work
+
+I also keep a few smaller course and lab repositories public when they show a clear
+research workflow:
+
+- [dust-clearance-rotating-binary](https://github.com/EternWang/dust-clearance-rotating-binary):
+  RK4 simulation of dust clearing in a rotating binary, with generated diagnostics and
+  a reproducible simulation pipeline.
+- [parking-structure-radiation-analysis](https://github.com/EternWang/parking-structure-radiation-analysis):
+  radiation survey and gamma-spectrum analysis with uncertainty propagation, XML parsing,
+  tests, and report-facing figures.
+
 ## Research Practices
 
 Across projects, I try to turn messy research inputs into documented, rerunnable
